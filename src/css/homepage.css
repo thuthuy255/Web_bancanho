@@ -145,6 +145,14 @@
     
 
 }
+.img_icon{
+    width: 13px;
+    height: 16px;
+}
+.img_icon1{
+    width: 15px;
+    
+}
 .product{
     display: flex;
     flex-direction: column;
